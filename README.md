@@ -2,7 +2,7 @@
 
 #### HTML and README.md practice for Epicodus, 05.27.2020
 
-#### By Brittany Lindgren and Micheal Hansen
+#### By Brittany Lindgren and Micheal Hansen and Ruthie Newman
 
 ## Description
 
