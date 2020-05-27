@@ -1,5 +1,5 @@
 h1 {
-  color: #00f;;
+  color: red;
 }
 
 h2 {
@@ -9,6 +9,7 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-weight: bold;
 }
 
 ul {
